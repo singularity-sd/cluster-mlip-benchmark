@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Do universal machine-learned interatomic potentials find the ground state of isolated clusters? A preregistered benchmark"
+authors:
+  - name: "Singularity"
+year: 2026
+url: "https://github.com/singularity-sd/cluster-mlip-benchmark"
+license: MIT
